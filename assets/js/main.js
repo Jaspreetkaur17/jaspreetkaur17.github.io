@@ -10,14 +10,14 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".digitalhouse",
-  `Trabalhei como instrutor conteudista em frontend na
-  Digital House, o trabalho consistia em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Nov 2022 (1 ano)"
+  `The “Finger-Scan” project is a web-based application designed to facilitate secure and 
+  convenient user registration and authentication through fingerprint scanning technology. The 
+  primary objective of this project is to provide a seamless consultancy for the customer. 
+  Designed the necessary screens and pages for the web application in Figma and implemented 
+  in code as well. Ensured responsive design and compatibility across all devices.`,
+  "Web Developer Intern",
+  "Minzor Pvt Ltd",
+  "June 2023 - July 2023 (2 months)"
 );
 
 hoverChangeExperience(
