@@ -21,23 +21,23 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  ".cycorium",
+  `Worked on the internal product of the company and got 
+  the opportunity to explore the different techniques and methods 
+  or implementing core product`,
+  "Jr. Software Developer",
+  "Cycorium Infotech",
+  "Jan 2024 -- May 2024 (5 months)"
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
+  ".mircales",
+  `Executed and monitored trades across various financial markets, 
+  analyzed market data to identify trading opportunities, 
+  and assisted in optimizing trade execution strategies to maximize profitability`,
+  "Quantitative Trader",
+  "Mircales Fintech",
+  "June 2024 -- July 2024 (2 months)"
 );
 
 hoverChangeExperience(
