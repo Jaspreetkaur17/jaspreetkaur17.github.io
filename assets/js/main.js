@@ -31,12 +31,12 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".mircales",
+  ".miracles",
   `Executed and monitored trades across various financial markets, 
   analyzed market data to identify trading opportunities, 
   and assisted in optimizing trade execution strategies to maximize profitability`,
   "Quantitative Trader",
-  "Mircales Fintech",
+  "Miracles Fintech",
   "June 2024 -- July 2024 (2 months)"
 );
 
